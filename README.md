@@ -24,6 +24,7 @@ done by determination of fruit freshness by classifying them into fresh or rotte
 which consists of digital images of fresh and rotten apples, bananas, Oranges.
 
 **Aim of the project:**
+
 Aim of the project is to protect the health of the people from such toxic based chemicals which are 
 present in fruits. So to avoid these Determination of fruit freshness is done by classifying them into 
 fresh or rotten by using a dataset which consists of digital images of fresh and rotten apples, 
